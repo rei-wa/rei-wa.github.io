@@ -1,11 +1,11 @@
-.gengou-waku {
+.gengou {
   width: 250px;
   padding: 10px;
   margin: auto;
   border: solid 10px #220f0f;
 }
 
-.gengou {
+.gengou-text {
   margin: 0;
   padding: 0;
   font-size: 120px;
@@ -17,6 +17,10 @@ a {
 }
 
 .link {
-font-size: 30px;
+font-size: 15px;
 text-align: center;
+}
+
+.timeTable {
+  text-align: center;
 }
