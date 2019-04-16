@@ -1,7 +1,7 @@
 function ReiwaDiff() {
   var now = new Date();
 
-        var firstDay = new Date(now.getFullYear() + 0, 4, 2);
+        var firstDay = new Date(now.getFullYear() + 0, 4, 1);
 
         var diff = (firstDay.getTime() - now.getTime()) / 1000;
 
